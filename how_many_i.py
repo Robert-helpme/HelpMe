@@ -2,7 +2,6 @@
 
 import re
 
-
 f = open('1_file_1.txt')
 context, s = f.read(), {}
 f.close()
